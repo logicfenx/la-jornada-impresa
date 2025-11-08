@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/la-jornada-impresa",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a la-jornada-impresa",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/la-jornada-impresa.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.logicfen.org/blog/la-jornada-impresa/"
+    },
+    "homepage": "https://www.logicfen.org/blog/la-jornada-impresa/"
+}
